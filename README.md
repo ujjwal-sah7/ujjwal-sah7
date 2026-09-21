@@ -50,11 +50,7 @@ Stock market analysis dashboard focused on NEPSE-listed companies.
 
 [View Repository](https://github.com/ujjwal-sah7/Nepse-Stock-Analyzer)
 
-### 🌐 Personal Portfolio Website
 
-Personal portfolio website showcasing my skills, projects and achievements.
-
-**Tech:** HTML • CSS • JavaScript
 
 ### ✅ Task Manager Web App
 
