@@ -22,13 +22,21 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** C++ • C • Java • Python • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
+</p>
 
-**Web:** HTML • CSS • React • Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
 
-**Database:** MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**Tools:** Git • GitHub • VS Code • Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
