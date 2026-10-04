@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Ujjwal Kumar Sah
+#  Ujjwal Kumar Sah
 
-### 💻 CSE Student | C++ & DSA | Full Stack Developer | AI/ML Enthusiast
+### CSE Student | C++ & DSA | Full Stack Developer | AI/ML Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 🎓 Computer Science & Engineering student at **KIIT University**
 
