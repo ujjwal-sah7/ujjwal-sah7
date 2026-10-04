@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ujjwal Kumar Sah
 
-### 💻 CSE Student | C++ & DSA | Web Developer | ML/AI Enthusiast
+### 💻 CSE Student | C++ & DSA | Full Stack Developer | AI/ML Enthusiast
 
 ---
 
@@ -10,51 +10,75 @@
 
 💻 Currently focused on **C++ and Data Structures & Algorithms**
 
-🌐 Building projects using Web Technologies
+🌐 Building **full-stack web applications** using modern technologies
 
-🤖 Exploring Machine Learning, AI and Generative AI
+🤖 Exploring **Machine Learning, Artificial Intelligence and Generative AI**
 
-🗄️ Practicing SQL and Database Management
+🗄️ Working with **SQL and Database Technologies**
 
-🚀 Interested in Software Development and solving real-world problems
+🚀 Interested in **Software Development, Problem Solving and Real-World Applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
-</p>
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,sql" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🚆 RailConnect
+
+Full-stack railway platform built using the **MEAN Stack** with Angular, Node.js, Express.js and MongoDB.
+
+**Tech:** Angular • TypeScript • Node.js • Express.js • MongoDB • Mongoose • JWT
+
+🔗 [View Repository](https://github.com/ujjwal-sah7/RailConnect)
+
+🌐 [Live Demo](https://railconnect-ujjwal.netlify.app/)
+
+---
+
+### 💰 Smart Expense Analyzer
+
+A modular **GenAI-powered expense analysis application** that combines deterministic financial calculations with LLM-generated explanations and insights.
+
+**Tech:** Python • Streamlit • Pandas • GenAI • JSON/Pydantic • Prompt Engineering
+
+🔗 [View Repository](https://github.com/ujjwal-sah7/smart_expense-analyzer)
+
+---
+
 ### 📈 NEPSE Stock Analyzer
 
-Stock market analysis dashboard focused on NEPSE-listed companies.
+Interactive stock market analysis dashboard focused on **NEPSE-listed companies**.
 
 **Tech:** Python • Streamlit • Pandas • Plotly
 
-[View Repository](https://github.com/ujjwal-sah7/Nepse-Stock-Analyzer)
+🔗 [View Repository](https://github.com/ujjwal-sah7/Nepse-Stock-Analyzer)
 
+---
 
+### 🌐 Portfolio Website
 
-### ✅ Task Manager Web App
-
-Web application for organizing and managing daily tasks.
+Personal portfolio website showcasing my skills, projects and development journey.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -62,29 +86,29 @@ Web application for organizing and managing daily tasks.
 
 ## 🧠 Currently Learning
 
-- C++ & DSA
-- Arrays
-- Strings
-- Binary Search
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- JavaScript
-- React
-- Node.js
-- Machine Learning
-- Deep Learning
-- Generative AI
+- 📚 Data Structures & Algorithms with C++
+- 🌐 Full Stack Development
+- 🤖 Machine Learning & Generative AI
+- 🗄️ SQL & Database Management
+- 💼 Software Development & Problem Solving
+
+---
+
+## 🎯 Current Focus
+
+- Building real-world software projects
+- Improving DSA and problem-solving skills
+- Developing full-stack applications
+- Exploring AI/ML and Generative AI
+- Preparing for Software Engineering opportunities
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-sah-6854a1304/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-sah-6854a1304/)
 
-[GitHub](https://github.com/ujjwal-sah7)
+🔗 [GitHub](https://github.com/ujjwal-sah7)
 
 ---
 
