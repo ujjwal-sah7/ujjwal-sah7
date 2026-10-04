@@ -6,17 +6,14 @@
 
 ##  About Me
 
-🎓 Computer Science & Engineering student at **KIIT University**
+## 👨‍💻 About Me
 
-💻 Currently focused on **C++ and Data Structures & Algorithms**
-
-🌐 Building **full-stack web applications** using modern technologies
-
-🤖 Exploring **Machine Learning, Artificial Intelligence and Generative AI**
-
-🗄️ Working with **SQL and Database Technologies**
-
-🚀 Interested in **Software Development, Problem Solving and Real-World Applications**
+- 🎓 Computer Science & Engineering student at **KIIT University**
+- 💻 Focused on **C++ and Data Structures & Algorithms**
+- 🌐 Building full-stack applications using **Angular, Node.js, Express.js and MongoDB**
+- 🤖 Exploring **Machine Learning, Artificial Intelligence and Generative AI**
+- 🗄️ Working with **SQL and database technologies**
+- 🚀 Interested in **Software Development, Problem Solving and real-world applications**
 
 ---
 
@@ -24,29 +21,37 @@
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,sql" />
-</p>
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express" />
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
 
 ### Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
-</p>
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🚆 RailConnect
 
-Full-stack railway platform built using the **MEAN Stack** with Angular, Node.js, Express.js and MongoDB.
+Full-stack railway management platform built using the **MEAN Stack**, featuring authentication, railway operations and RESTful API integration.
 
 **Tech:** Angular • TypeScript • Node.js • Express.js • MongoDB • Mongoose • JWT
 
@@ -58,29 +63,23 @@ Full-stack railway platform built using the **MEAN Stack** with Angular, Node.js
 
 ### 💰 Smart Expense Analyzer
 
-A modular **GenAI-powered expense analysis application** that combines deterministic financial calculations with LLM-generated explanations and insights.
+A **GenAI-powered expense analysis application** that combines deterministic financial calculations with LLM-generated explanations and personalized spending insights.
 
-**Tech:** Python • Streamlit • Pandas • GenAI • JSON/Pydantic • Prompt Engineering
+**Tech:** Python • Streamlit • Pandas • GenAI • Pydantic • Prompt Engineering
 
 🔗 [View Repository](https://github.com/ujjwal-sah7/smart_expense-analyzer)
+
+🌐 [Live Demo](https://smart-expenseanalyzer.streamlit.app/)
 
 ---
 
 ### 📈 NEPSE Stock Analyzer
 
-Interactive stock market analysis dashboard focused on **NEPSE-listed companies**.
+Interactive **NEPSE stock market analysis dashboard** for stock search, market data analysis and financial visualization.
 
 **Tech:** Python • Streamlit • Pandas • Plotly
 
 🔗 [View Repository](https://github.com/ujjwal-sah7/Nepse-Stock-Analyzer)
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio website showcasing my skills, projects and development journey.
-
-**Tech:** HTML • CSS • JavaScript
 
 ---
 
@@ -96,11 +95,11 @@ Personal portfolio website showcasing my skills, projects and development journe
 
 ## 🎯 Current Focus
 
-- Building real-world software projects
-- Improving DSA and problem-solving skills
-- Developing full-stack applications
-- Exploring AI/ML and Generative AI
-- Preparing for Software Engineering opportunities
+- 🚀 Building real-world software projects
+- 🧩 Improving DSA and problem-solving skills
+- 🌐 Developing full-stack applications
+- 🤖 Exploring AI/ML and Generative AI
+- 💻 Preparing for Software Engineering opportunities
 
 ---
 
@@ -111,7 +110,3 @@ Personal portfolio website showcasing my skills, projects and development journe
 🔗 [GitHub](https://github.com/ujjwal-sah7)
 
 ---
-
-### 💻 Code • Learn • Build • Grow 🚀
-
-**Thanks for visiting my profile! ⭐**
