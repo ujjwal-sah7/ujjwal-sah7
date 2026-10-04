@@ -4,7 +4,6 @@
 
 ---
 
-##  About Me
 
 ## 👨‍💻 About Me
 
