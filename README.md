@@ -81,6 +81,15 @@ Interactive **NEPSE stock market analysis dashboard** for stock search, market d
 🔗 [View Repository](https://github.com/ujjwal-sah7/Nepse-Stock-Analyzer)
 
 ---
+### 🐟 AquaDetect — AI Fish Detection
+
+An AI-powered fish detection web application that identifies fish species in uploaded images using a custom YOLO model, with a FastAPI backend and an interactive ocean-themed interface.
+
+**Tech:** Python • YOLO • Ultralytics • FastAPI • HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ujjwal-sah7/fish-detection-app)
+
+🚀 [Live Demo](https://fish-detection-app-3.onrender.com)
 
 ## 🧠 Currently Learning
 
